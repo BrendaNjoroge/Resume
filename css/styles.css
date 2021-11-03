@@ -1,14 +1,19 @@
-h1{
+h1 {
     background-color: rgba(128, 128, 128, 0.884);
     color: white;
     text-align: center;
     font-size: 40px;
     letter-spacing: 4;
+    margin: 60px;
     
 }
 
-h3{
+h3 {
     font-size: 30px;
+}
+
+span {
+    font-weight: bold;
 }
 
 .header {
@@ -35,5 +40,25 @@ h3{
     margin: 60px;
 }
 div.skills ul {
+    font-size: 20px;
+}
+
+.work {
+    color: rgba(128, 128, 128, 0.884);
+    margin: 60px;
+}
+div.work ul {
+    font-size: 20px;
+}
+div.work h4 {
+    font-size: 25px;
+}
+
+.education {
+    color: white;
+    background-color:rgba(128, 128, 128, 0.884);
+    margin: 60px;
+}
+div.education ul {
     font-size: 20px;
 }
