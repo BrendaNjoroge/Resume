@@ -62,3 +62,10 @@ div.work h4 {
 div.education ul {
     font-size: 20px;
 }
+.languages {
+    color: rgba(128, 128, 128, 0.884);
+    margin: 60px;
+}
+div.languages ul {
+    font-size: 20px;
+}
