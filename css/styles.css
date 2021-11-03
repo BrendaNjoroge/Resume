@@ -38,6 +38,16 @@ span {
     color: white;
     background-color: rgba(128, 128, 128, 0.884);
     margin: 60px;
+    float: right;
+    padding-right: 15%;
+    padding-top: 1%;
+    line-height: 1.2;
+    text-align: justify;
+
+}
+
+div.skills h3 {
+    padding-left: 20px;
 }
 div.skills ul {
     font-size: 20px;
