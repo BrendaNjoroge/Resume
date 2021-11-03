@@ -7,6 +7,10 @@ h1{
     
 }
 
+h3{
+    font-size: 30px;
+}
+
 .header {
     color:rgba(128, 128, 128, 0.884);
     font-size: 50px;
@@ -18,4 +22,18 @@ h1{
     font-size: 20px;
     text-align: center;
     margin: 60px;
+}
+.statement {
+    color: rgba(128, 128, 128, 0.884);
+    margin: 60px;
+    font-size: 20px;
+}
+
+.skills {
+    color: white;
+    background-color: rgba(128, 128, 128, 0.884);
+    margin: 60px;
+}
+div.skills ul {
+    font-size: 20px;
 }
